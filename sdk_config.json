@@ -1,0 +1,37 @@
+{
+"lastUpdatedDate": "2021-07-27",
+"8world_ios": {
+"googleadsVideo": "enable",
+"googleads": "enable",
+"facebook": "enable",
+"google": "enable",
+"apple": "enable",
+"adobe": "enable",
+"cxense": "enable",
+"comscore": "enable",
+"gfk": "enable",
+"lotame": "enable",
+"outbrain": "enable",
+"newrelic": "enable",
+"prebid": "enable",
+"chartbeat": "enable",
+"moat": "enable"
+},
+"8world_android": {
+"googleadsVideo": "enable",
+"googleads": "enable",
+"facebook": "enable",
+"google": "enable",
+"apple": "enable",
+"adobe": "enable",
+"cxense": "enable",
+"comscore": "enable",
+"gfk": "enable",
+"lotame": "enable",
+"outbrain": "enable",
+"newrelic": "enable",
+"prebid": "enable",
+"chartbeat": "enable",
+"moat": "enable"
+}
+}
