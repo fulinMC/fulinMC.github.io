@@ -1,7 +1,7 @@
 {
 "lastUpdatedDate": "2021-07-27",
 "8world_ios": {
-"googleadsVideo": "enable",
+"googleadsVideo": "disable",
 "googleads": "enable",
 "facebook": "enable",
 "google": "enable",
